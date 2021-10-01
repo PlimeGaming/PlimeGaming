@@ -4,32 +4,32 @@
     
     - I code more hours 
     - I am a gamer too 
-    - I play minecraft, roblox, AMOUNG US ;-;
+    - I play minecraft, roblox, Fps Games ;-;
     - This readme.md is created using GitHub Codespaces 👀
     - I am also a YouTuber XD, make sure to sub ;-;
 -->
     
 <h1 align="center">Who am I?</h1>
-<p align="center">Hello I'm Sudhan. I use typescript to code and there is nothing so special about me...</p>
+<p align="center">Hello I'm Plime. I use Python to code and there is nothing so special about me...</p>
 
-## Hello, Im Sudhan <img src="https://raw.githubusercontent.com/SudhanPlayz/SudhanPlayz/master/images/WaveIcon.gif" width="30px">
+## Hello, Im Plime <img src="https://raw.githubusercontent.com/SudhanPlayz/SudhanPlayz/master/images/WaveIcon.gif" width="30px">
 
 ```js
 const Sudhan = {
-    Age: 14,
+    Age: 15,
     Description: "I like to code what I love to make...",
-    FavouriteLanguage: "Javascript/Typescript",
-    OpenedIssues: 59,
-    OpenedPullRequests: 47,
-    TotalCommits: 5172,
+    FavouriteLanguage: "Javascript/python",
+    OpenedIssues: 3,
+    OpenedPullRequests: 6,
+    TotalCommits: 8,
     Repositories: {
-       Created: 66,
-       Contributed: 57
+       Created: 14,
+       Contributed: 9
     },
-    CreatedAt: "Tue Sep 17 2019 00:56:31 GMT+0000 (Coordinated Universal Time)",
+    CreatedAt: "Tue Sep 17 2021 00:56:31 GMT+0000 (Coordinated Universal Time)",
     Stars: 1286,
     FavouriteThings: ["GitHub <3", "GitHub Copilot", "VS Code", "A Potato PC with 50kbps internet", "Docker"]
-}; //I'm a Epic Object. UwU
+}; //I'm a Epic Object. 
 ```
 <hr>
 <div>
