@@ -26,7 +26,7 @@ const Plime = {
        Created: 14,
        Contributed: 9
     },
-    CreatedAt: "Tue Sep 17 2021 00:56:31 GMT+0000 (Coordinated Universal Time)",
+    CreatedAt: "FRI Sep 17 2021 00:56:31 GMT+0000 (Coordinated Universal Time)",
     Stars: 1286,
     FavouriteThings: ["GitHub <3", "GitHub Copilot", "VS Code", "A Potato PC with 50kbps internet", "Docker"]
 }; //I'm a Epic Object. 
