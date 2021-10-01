@@ -15,7 +15,7 @@
 ## Hello, Im Plime <img src="https://raw.githubusercontent.com/SudhanPlayz/SudhanPlayz/master/images/WaveIcon.gif" width="30px">
 
 ```js
-const Sudhan = {
+const Plime = {
     Age: 15,
     Description: "I like to code what I love to make...",
     FavouriteLanguage: "Javascript/python",
