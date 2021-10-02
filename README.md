@@ -24,7 +24,7 @@ const Plime = {
     TotalCommits: 8,
     Repositories: {
        Created: 14,
-       Contributed: 9
+       Contributed: 7
     },
     CreatedAt: "FRI Sep 17 2021 00:56:31 GMT+0000 (Coordinated Universal Time)",
     Stars: 1286,
