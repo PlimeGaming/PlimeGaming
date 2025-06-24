@@ -17,7 +17,7 @@
 const Plime = {
     Age: 15,
     Description: "I like to code what I love to make...",
-    FavouriteLanguage: "Javascript/python",
+    FavouriteLanguage: "java/python",
     OpenedIssues: 3,
     OpenedPullRequests: 6,
     TotalCommits: 8,
