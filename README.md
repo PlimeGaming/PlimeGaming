@@ -9,7 +9,7 @@
 -->
     
 <h1 align="center">Who am I?</h1>
-<p align="center">Hello I'm Plime. I use Python to code and there is nothing so special about me...</p>
+<p align="center">Hello I'm Plime. I use Java to code and there is nothing so special about me...</p>
 
 ## Hello, Im Plime <img src="https://raw.githubusercontent.com/SudhanPlayz/SudhanPlayz/master/images/WaveIcon.gif" width="30px">
 
